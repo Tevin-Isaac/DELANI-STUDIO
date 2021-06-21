@@ -11,6 +11,7 @@ This project is a web application for Delani studio that shows details about the
 
 ## Live Page 
 https://tevin-creator.github.io/DELANI-STUDIO/
+![ Delani Studio](https://user-images.githubusercontent.com/81568615/122820164-faad4280-d2e3-11eb-93f5-34129f2f1bbc.jpg)
 
 
 ## Installation / Setup instruction
