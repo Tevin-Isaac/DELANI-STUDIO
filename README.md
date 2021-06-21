@@ -24,7 +24,7 @@ https://github.com/Tevin-creator
 
 ## Technologies Used
 
-* [HTML5](https://github.com/topics/html5)
+* [HTML](https://github.com/topics/html)
 * [CSS](https://github.com/topics/css3)
 * [Bootstrap](https://github.com/topics/bootstrap)
 * [jQuery](https://github.com/topics/javascript)
@@ -47,4 +47,4 @@ If you have any question or contributions, please email me at [isaactevin@yahoo.
 
 ## License
 * *MIT License:*
-* Copyright (c) 2021 **TEVIN ISAAC** 'Copse', serif;
+* Copyright (c) 2021 **TEVIN ISAAC** 
